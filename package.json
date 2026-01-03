@@ -1,0 +1,25 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "\"This is repo is about me practicing in leet-code\"",
+  "homepage": "https://github.com/NerdBoi008/leet-code#readme",
+  "bugs": {
+    "url": "https://github.com/NerdBoi008/leet-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdBoi008/leet-code.git"
+  },
+  "license": "MIT",
+  "author": "Nerdboi008",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "leetcode:update": "tsx ./scripts/update-readme.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

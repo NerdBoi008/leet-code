@@ -7,3 +7,4 @@
 | 13 | Roman To Integer | [0013-roman-to-integer.ts](./0013-roman-to-integer.ts) |
 | 14 | Longest Common Prefix | [0014-longest-common-prefix.ts](./0014-longest-common-prefix.ts) |
 | 20 | Valid Parentheses | [0020-valid-parentheses.ts](./0020-valid-parentheses.ts) |
+| 21 | Merge Two Sorted Lists | [0021-merge-two-sorted-lists.ts](./0021-merge-two-sorted-lists.ts) |

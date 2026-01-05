@@ -9,7 +9,7 @@
 
 function longestCommonPrefix(strs: string[]): string {
   if (!strs.length) return "";
-  for (let index = 0; index < strs.length; index++) {
+  for (let index = 0; index < strs[0].length; index++) {
     const char = strs[0][index];
     for (let j = 1; j < strs.length; j++) {
       if (strs[j][index] !== char || index >= strs[j].length) {
@@ -23,3 +23,4 @@ function longestCommonPrefix(strs: string[]): string {
 
 console.log(longestCommonPrefix(["flower","flow","flight"]));
 console.log(longestCommonPrefix(["dog","racecar","car"]));
+console.log(longestCommonPrefix(["abb","abc"]));

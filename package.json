@@ -1,7 +1,7 @@
 {
   "name": "leet-code",
   "version": "1.0.0",
-  "description": "\"This is repo is about me practicing in leet-code\"",
+  "description": "This is repo is about me practicing in leet-code. I will be solving problems in TypeScript and adding them here.",
   "homepage": "https://github.com/NerdBoi008/leet-code#readme",
   "bugs": {
     "url": "https://github.com/NerdBoi008/leet-code/issues"

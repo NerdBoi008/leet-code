@@ -11,3 +11,4 @@
 | 26 | Remove Duplicates From Sorted Array | [0026-remove-duplicates-from-sorted-array.ts](./0026-remove-duplicates-from-sorted-array.ts) |
 | 27 | Remove Element | [0027-remove-element.ts](./0027-remove-element.ts) |
 | 28 | Find The Index Of The First Occurrence In A String | [0028-find-the-index-of-the-first-occurrence-in-a-string.ts](./0028-find-the-index-of-the-first-occurrence-in-a-string.ts) |
+| 35 | Search Insert Position | [0035-search-insert-position.ts](./0035-search-insert-position.ts) |

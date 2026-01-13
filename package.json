@@ -12,8 +12,7 @@
   },
   "license": "MIT",
   "author": "Nerdboi008",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "leetcode:update": "tsx ./scripts/update-readme.ts"
   },

@@ -7,7 +7,7 @@ class ListNode {
   }
 }
 
-function arrToLinkList(arr: number[]): ListNode | null {
+export function arrToLinkList(arr: number[]): ListNode | null {
   if (arr.length === 0) return null;
 
   let ll: ListNode | null = null;
@@ -25,7 +25,7 @@ function arrToLinkList(arr: number[]): ListNode | null {
   return ll;
 }
 
-function listToArray(ll: ListNode): Array<number> | null {
+export function listToArray(ll: ListNode): Array<number> | null {
   if (ll === null) return null;
   const arr: Array<number> = [];
   let currentNode: ListNode | null = ll;

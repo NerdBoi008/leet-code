@@ -14,3 +14,4 @@
 | 35 | Search Insert Position | [0035-search-insert-position.ts](./0035-search-insert-position.ts) |
 | 58 | Length Of Last Word | [0058-length-of-last-word.ts](./0058-length-of-last-word.ts) |
 | 66 | Plus One | [0066-plus-one.ts](./0066-plus-one.ts) |
+| 67 | Add Binary | [0067-add-binary.ts](./0067-add-binary.ts) |

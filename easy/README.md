@@ -16,3 +16,4 @@
 | 66 | Plus One | [0066-plus-one.ts](./0066-plus-one.ts) |
 | 67 | Add Binary | [0067-add-binary.ts](./0067-add-binary.ts) |
 | 69 | Sqrt X | [0069-sqrt-x.ts](./0069-sqrt-x.ts) |
+| 70 | Climbing Stairs | [0070-climbing-stairs.ts](./0070-climbing-stairs.ts) |

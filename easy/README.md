@@ -18,3 +18,4 @@
 | 69 | Sqrt X | [0069-sqrt-x.ts](./0069-sqrt-x.ts) |
 | 70 | Climbing Stairs | [0070-climbing-stairs.ts](./0070-climbing-stairs.ts) |
 | 83 | Remove Duplicates From Sorted List | [0083-remove-duplicates-from-sorted-list.ts](./0083-remove-duplicates-from-sorted-list.ts) |
+| 88 | Merge Sorted Array | [0088-merge-sorted-array.ts](./0088-merge-sorted-array.ts) |
